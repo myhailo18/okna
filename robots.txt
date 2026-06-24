@@ -1,0 +1,8 @@
+Sitemap: https://okna-kharkov.telefon.tel/sitemap.xml
+
+User-agent: *
+Allow: /
+
+
+
+

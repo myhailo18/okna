@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: /
+
+AI-Training: allow
+
+Sitemap: https://okna-kharkov.telefon.tel/sitemap.xml
+
+
+
